@@ -1,22 +1,20 @@
-# What is Emergency Everyday?
-Emergency Everyday is a Program that helps you turn a simple easy-to-crack password into a far stronger password. Using only simple infomation to generate a sophistcated password.
+# What does the Password Scrambler do?
+this is a Program that helps you turn a simple password into a stronger password. Using only simple infomation to generate a password. While also listing a site the password could be linked too.
 
-The intention of this program is guide you into creating a personalized strong passwords by putting in simple infomation.
+The intention of this program is to sramble passwords by putting in simple infomation.
 All you need to input is:
-- A password (with the help of this program, even "password123" could be considered strong)
+- A password input (with the help of this program, even "password123" would work)
 - A 3 digit number (could ressemble anything, an example could your birthmonth + day (412) (April (4) 12th (12))
 - A website the password will be connected too
   
 From there a new encoded password will be generated, and it should be exponentially more secured than the original entry.
 
-My intention is for this program to has practical use for personal acitvity (or even professionally)
-so the password generation is created primarily with technical users in mind. 
-However, having a strong password is general good practice so everyone is welcomed to try the program.
+My intention is for this program to create a fun way to scramble and store inputs into passwords.
 
 The GUI is created under the idea that the person who is looking is not familiar with technology.
 So I crafted a GUI that looks like you are doing activity of a hacker (the reason why the font and colors is the way it is).
 
-So I hope you'll find use for this program! Happy Password-Creating !
+So I hope you'll find use for this program! Happy Password-Srambling !
 
 # How to run the program
 The easiest and quickest way to run the program is the right click the "main.pyw" file and select "Open With" and look for python.
@@ -27,7 +25,7 @@ To promote convenience you can create a shortcut and place it on your desktop to
 If not of the method above works, then you might have to check if you have python installed.
 
 # Future Improvements
-I plan to remake this program using a more updated and modern technology, as Tkinter is pretty dated, but the program as it is does the job exactly as needed.
+I plan to remake this program using a more updated and modern technology, as Tkinter is pretty dated, but the program as it is does the job what i intended it to do.
 
 - Improvement is planned on the way all the password infomation will be printed
 - Allow the user to choose a password set to delete
